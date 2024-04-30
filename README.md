@@ -2,7 +2,7 @@
 
 This project implements three different types of tree data structures: AVL Trees, Binary Search Trees, and B-Trees. It provides functionality to insert, delete, and traverse the trees, as well as print their structure.
 
-## Language and Libraries
+## Language
 
 - **Language**: C
 - **Version**: C99
