@@ -43,8 +43,8 @@ This project demonstrates a solid understanding of tree data structures and thei
 
 ### Instructions for Use
 1. **Clone the Repository**: Clone the repository containing the source code files.
-   '''bash
-   git clone https://github.com/Nishant2102/Trees_Visualization.git 
+   ```bash
+   https://github.com/Nishant2102/Tree_Visualization.git
 
 3. **Navigate to the Project Directory**: Use the `cd` command to navigate to the project directory.
 
