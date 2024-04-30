@@ -43,11 +43,13 @@ This project demonstrates a solid understanding of tree data structures and thei
 
 ### Instructions for Use
 1. **Clone the Repository**: Clone the repository containing the source code files.
+   '''bash
+   git clone https://github.com/Nishant2102/Trees_Visualization.git 
 
-2. **Navigate to the Project Directory**: Use the `cd` command to navigate to the project directory.
+3. **Navigate to the Project Directory**: Use the `cd` command to navigate to the project directory.
 
-3. **Compile the Code**: Compile the main source code file using the `gcc` compiler.
+4. **Compile the Code**: Compile the main source code file using the `gcc` compiler.
 
-4. **Run the Program**: Execute the compiled program using the `./main` command.
+5. **Run the Program**: Execute the compiled program using the `./main` command.
 
 By providing these files and instructions, users can easily clone the repository, compile the code, and run the program in their Bash environment.
